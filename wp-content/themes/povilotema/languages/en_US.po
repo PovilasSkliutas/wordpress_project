@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-02-26 14:23+0200\n"
+"PO-Revision-Date: 2018-02-26 14:31+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:3
+msgid "Puslapis nerastas!"
+msgstr "Page not found!"
+
+#: 404.php:5
+msgid "Grįžti namo?"
+msgstr "Return home?"
+
+#: archive.php:3
+msgid "Visi įrašai"
+msgstr "All posts"
+
+#: footer.php:7
+msgid "Mano pirmasis Wordpress tinklalapis"
+msgstr "My first Wordpress website"
+
+#: functions.php:33
+msgid "apatinis valdiklis"
+msgstr "footer sidebar"
+
+#: functions.php:79
+msgid "Skaityti plačiau"
+msgstr "Read more"
+
+#: functions.php:94
+msgid "« Buvęs"
+msgstr "« Previous"
+
+#: functions.php:95
+msgid "Sekantis »"
+msgstr "Next »"
+
+#: index.php:4
+msgid "Naujausi įrašai"
+msgstr "Latest posts"
+
+#: loop.php:35 page.php:10
+msgid "Atsiprašau, bet nėra ką rodyti!"
+msgstr "Sorry, but there is nothing to display!"
+
+#: single.php:9
+msgid "Atsiprašau, bet nėra ką rodyti!."
+msgstr "Sorry, but there is nothing to display!"
